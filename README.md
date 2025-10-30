@@ -22,6 +22,7 @@ Además, se desarrollaron consultas adicionales para detectar backorders, alerta
 Estos indicadores permiten tomar decisiones más informadas sobre eficiencia operativa, control de inventarios y desempeño logístico.
 
 Herramientas y Tecnologías Utilizadas
+
 Jupeter Notebook
 SQL
 
