@@ -1,4 +1,4 @@
-#Proyecto KPIs y Operaciones Logísticas#
+#Proyecto KPIs y Operaciones Logísticas
 Este proyecto tiene como objetivo diseñar y analizar una base de datos relacional para operaciones logísticas, utilizando SQLite y Python sin necesidad de archivos externos.
 El sistema simula el funcionamiento de una empresa de distribución que gestiona productos, almacenes, inventarios, órdenes, clientes y entregas, permitiendo calcular indicadores clave de desempeño (KPIs) y realizar consultas operativas en tiempo real.
 
